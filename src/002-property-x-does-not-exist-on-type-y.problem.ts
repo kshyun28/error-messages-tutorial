@@ -1,4 +1,4 @@
-const user = {
+const user: Record<string, number | string> = {
   name: "Matt",
 };
 
